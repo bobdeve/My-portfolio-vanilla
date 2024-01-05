@@ -34,6 +34,7 @@ a,
 nav, 
 .nav-links {
     display: flex;
+   
 }
 nav {
     justify-content: space-around;
@@ -140,6 +141,7 @@ a:hover {
 
 /* Sections */
 section {
+   
     padding-top: 4vh;
     height: 96vh;
     margin: 0 10rem;
@@ -148,6 +150,8 @@ section {
 }
 .section-container { 
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 /* Profile Section */
